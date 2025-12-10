@@ -1,0 +1,359 @@
+[
+  {
+    "date": "2025-12-13",
+    "day": 1,
+    "city": "米蘭",
+    "country": "意大利",
+    "hotel": "IQ Hotel Milano",
+    "theme": "米蘭大教堂 & 市中心逛街",
+    "weather": "12 月中旬米蘭約 0–8°C，早晚寒冷且常有霧，務必準備厚外套、圍巾與手套。",
+    "events": [
+      {
+        "time": "早上",
+        "title": "抵達米蘭 & 入住酒店",
+        "description": "從香港抵達米蘭 Malpensa 機場後，搭乘巴士或火車前往市區，於 IQ Hotel Milano 辦理入住並稍作休息。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=IQ+Hotel+Milano"
+      },
+      {
+        "time": "10:00–12:00",
+        "title": "米蘭大教堂 Duomo & 地下遺址",
+        "description": "前往米蘭最著名的米蘭大教堂（Duomo），參觀教堂內部與地下考古區，如有預約可登上屋頂欣賞米蘭市景。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Duomo+di+Milano"
+      },
+      {
+        "time": "12:00–13:30",
+        "title": "午餐：大教堂附近 trattoria",
+        "description": "在大教堂附近找一間評價不錯的 trattoria，品嚐米蘭燉飯與燉牛膝，可用 Google 地圖搜尋 4.3 分以上的餐廳。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=restaurant+near+Duomo+di+Milano"
+      },
+      {
+        "time": "13:30–16:00",
+        "title": "艾曼紐二世迴廊 & Rinascente 百貨",
+        "description": "步行前往艾曼紐二世迴廊與 Rinascente 百貨逛街，欣賞玻璃穹頂與聖誕裝飾，順便選購精品或紀念品。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Galleria+Vittorio+Emanuele+II"
+      },
+      {
+        "time": "16:00–18:00",
+        "title": "星巴克旗艦店 & 聖誕市集",
+        "description": "前往 Starbucks Reserve Roastery（米蘭烘焙工坊），喝咖啡、買限定周邊，之後逛市中心聖誕市集與街頭燈飾。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Starbucks+Reserve+Roastery+Milan"
+      },
+      {
+        "time": "19:00 之後",
+        "title": "晚餐 & 夜遊 Duomo 廣場",
+        "description": "晚餐可在 Brera 區或大教堂周邊享用義大利料理，飯後再回到 Duomo 廣場散步、拍夜景，感受聖誕氣氛。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Piazza+del+Duomo+Milano"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-14",
+    "day": 2,
+    "city": "米蘭",
+    "country": "意大利",
+    "hotel": "IQ Hotel Milano",
+    "theme": "球賽 & 最後的晚餐",
+    "weather": "米蘭約 0–8°C，晚上離開球場時特別冷，建議穿羽絨外套與帽子手套。",
+    "events": [
+      {
+        "time": "上午",
+        "title": "自由活動 & 市中心散步",
+        "description": "可補眠或在市中心簡單散步、買咖啡與早餐，為下午球賽保留體力。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Milano+Centro"
+      },
+      {
+        "time": "12:30",
+        "title": "前往 San Siro 球場看 AC 米蘭主場",
+        "description": "搭乘地鐵 M5 前往 San Siro Stadio 站，提早入場欣賞球場與熱身氣氛，可於官方網站查詢及購票。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=San+Siro+Stadium+Milan"
+      },
+      {
+        "time": "下午",
+        "title": "球賽結束 & 球場周邊散步",
+        "description": "球賽結束後可在球場周邊購買球衣、圍巾等紀念品，再搭地鐵返回市中心。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=San+Siro+Store+Milan"
+      },
+      {
+        "time": "17:30",
+        "title": "恩寵聖母教堂《最後的晚餐》",
+        "description": "按預約時間前往恩寵聖母教堂，參觀達文西名畫《最後的晚餐》，需提前網上訂票並提早抵達辦理入場。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Santa+Maria+delle+Grazie+Milan"
+      },
+      {
+        "time": "晚上",
+        "title": "晚餐 & 返回酒店休息",
+        "description": "可在 Cadorna 或 Brera 一帶找傳統餐廳用餐，之後返回 IQ Hotel Milano 休息。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Brera+district+Milan"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-15",
+    "day": 3,
+    "city": "科莫湖（一日遊）",
+    "country": "意大利",
+    "hotel": "IQ Hotel Milano",
+    "theme": "湖光山色 & 小鎮散步",
+    "weather": "科莫湖 12 月約 2–7°C，靠水邊濕冷，建議戴帽子與手套。",
+    "events": [
+      {
+        "time": "09:20–10:24",
+        "title": "火車：米蘭 → Varenna-Esino",
+        "description": "於 Milano Centrale 搭乘 Trenord 火車前往 Varenna-Esino，建議坐火車左側欣賞湖景。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Milano+Centrale"
+      },
+      {
+        "time": "上午晚段",
+        "title": "Varenna 小鎮散步",
+        "description": "抵達後在 Varenna 湖畔與小鎮內散步，拍照並享受寧靜氣氛。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Varenna+Italy"
+      },
+      {
+        "time": "中午–下午",
+        "title": "渡輪前往 Bellagio & 湖邊午餐",
+        "description": "搭乘渡輪前往 Bellagio，在湖畔餐廳享用午餐並漫步小鎮，之後視時間再返回 Varenna。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Bellagio+Lake+Como"
+      },
+      {
+        "time": "17:35–18:40",
+        "title": "火車：Varenna-Esino → 米蘭",
+        "description": "傍晚搭乘回程火車返回 Milano Centrale，途中可再次欣賞湖區傍晚景色。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Varenna-Esino+station"
+      },
+      {
+        "time": "晚上",
+        "title": "回米蘭市區晚餐 & 休息",
+        "description": "回到市區後隨意找一家餐廳用餐，可嘗試薄餅或簡單義大利麵，之後返回酒店休息。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=restaurant+near+IQ+Hotel+Milano"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-16",
+    "day": 4,
+    "city": "米蘭 → 威尼斯",
+    "country": "意大利",
+    "hotel": "NH Venezia Santa Lucia",
+    "theme": "前往水都 & 傍晚運河",
+    "weather": "威尼斯 12 月約 2–8°C，空氣潮濕，偶有霧或細雨，注意鞋子防滑。",
+    "events": [
+      {
+        "time": "09:35–12:03",
+        "title": "Italo 高鐵：米蘭 → 威尼斯",
+        "description": "從 Milano Centrale 搭乘 Italo 高鐵前往 Venezia S. Lucia，車程約 2 小時 30 分。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Milano+Centrale"
+      },
+      {
+        "time": "中午",
+        "title": "抵達威尼斯 & 入住酒店",
+        "description": "抵達 Venezia S. Lucia 車站後，步行前往 NH Venezia Santa Lucia 辦理入住，放下行李並稍作休息。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=NH+Venezia+Santa+Lucia"
+      },
+      {
+        "time": "下午",
+        "title": "大運河 & 里阿爾托橋散步",
+        "description": "沿著大運河散步，慢慢走向里阿爾托橋與小巷中的商店，感受威尼斯水都氣氛。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Rialto+Bridge+Venice"
+      },
+      {
+        "time": "19:00",
+        "title": "Impronta 晚餐",
+        "description": "前往預訂好的 Impronta Restaurant 用餐，建議提早到附近走走拍照。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Impronta+Restaurant+Venice"
+      },
+      {
+        "time": "晚間",
+        "title": "夜遊聖馬可廣場",
+        "description": "如體力許可，可搭水上巴士或步行前往聖馬可廣場，晚上人潮較少，適合拍夜景。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Piazza+San+Marco+Venezia"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-17",
+    "day": 5,
+    "city": "佛羅倫斯",
+    "country": "意大利",
+    "hotel": "C-Hotel Diplomat Firenze",
+    "theme": "待填寫：佛羅倫斯行程",
+    "weather": "佛羅倫斯 12 月約 3–10°C，白天步行舒適，晚上偏冷。",
+    "events": [
+      {
+        "time": "待填寫",
+        "title": "待填寫",
+        "description": "請根據 Excel 內容補上佛羅倫斯當天的詳細時間軸。",
+        "mapUrl": ""
+      }
+    ]
+  },
+  {
+    "date": "2025-12-18",
+    "day": 6,
+    "city": "佛羅倫斯 & 比薩",
+    "country": "意大利",
+    "hotel": "C-Hotel Diplomat Firenze",
+    "theme": "待填寫：比薩一日遊",
+    "weather": "比薩 / 佛羅倫斯約 4–11°C，可能有風。",
+    "events": [
+      {
+        "time": "待填寫",
+        "title": "待填寫",
+        "description": "請根據 Excel 內容補上火車時間與比薩斜塔等景點。",
+        "mapUrl": ""
+      }
+    ]
+  },
+  {
+    "date": "2025-12-19",
+    "day": 7,
+    "city": "羅馬",
+    "country": "意大利",
+    "hotel": "The Hive Hotel",
+    "theme": "待填寫：古羅馬遺跡",
+    "weather": "羅馬約 5–12°C，較北部溫和。",
+    "events": [
+      {
+        "time": "待填寫",
+        "title": "待填寫",
+        "description": "請補上羅馬競技場、古羅馬廣場等時間軸。",
+        "mapUrl": ""
+      }
+    ]
+  },
+  {
+    "date": "2025-12-20",
+    "day": 8,
+    "city": "羅馬",
+    "country": "意大利",
+    "hotel": "The Hive Hotel",
+    "theme": "待填寫：梵蒂岡 & Trastevere",
+    "weather": "梵蒂岡與羅馬天氣相似，約 5–12°C。",
+    "events": [
+      {
+        "time": "待填寫",
+        "title": "待填寫",
+        "description": "請補上梵蒂岡博物館、聖彼得大教堂與 Trastevere 晚餐等內容。",
+        "mapUrl": ""
+      }
+    ]
+  },
+  {
+    "date": "2025-12-21",
+    "day": 9,
+    "city": "羅馬",
+    "country": "意大利",
+    "hotel": "The Hive Hotel",
+    "theme": "待填寫：廣場 & 噴泉",
+    "weather": "羅馬約 6–12°C，若天晴非常舒適。",
+    "events": [
+      {
+        "time": "待填寫",
+        "title": "待填寫",
+        "description": "請補上納沃納廣場、萬神殿、特雷維噴泉、西班牙階梯等。",
+        "mapUrl": ""
+      }
+    ]
+  },
+  {
+    "date": "2025-12-22",
+    "day": 10,
+    "city": "巴黎",
+    "country": "法國",
+    "hotel": "Mercure Paris Centre Gare Montparnasse",
+    "theme": "待填寫：抵達巴黎 & 左岸",
+    "weather": "巴黎 12 月約 2–8°C，常有雲與短暫雨。",
+    "events": [
+      {
+        "time": "待填寫",
+        "title": "待填寫",
+        "description": "請補上從羅馬飛往巴黎、入住與簡單散步行程。",
+        "mapUrl": ""
+      }
+    ]
+  },
+  {
+    "date": "2025-12-23",
+    "day": 11,
+    "city": "巴黎",
+    "country": "法國",
+    "hotel": "Mercure Paris Centre Gare Montparnasse",
+    "theme": "待填寫：西岱島 & 奧賽等博物館",
+    "weather": "巴黎氣溫約 2–8°C，日落約 17:00 左右。",
+    "events": [
+      {
+        "time": "待填寫",
+        "title": "待填寫",
+        "description": "請補上聖徒禮拜堂、巴黎古監獄、羅浮宮、奧賽等。",
+        "mapUrl": ""
+      }
+    ]
+  },
+  {
+    "date": "2025-12-24",
+    "day": 12,
+    "city": "巴黎",
+    "country": "法國",
+    "hotel": "Mercure Paris Centre Gare Montparnasse",
+    "theme": "待填寫：羅浮宮 & 凡爾賽",
+    "weather": "巴黎 / 凡爾賽約 2–7°C，花園較冷。",
+    "events": [
+      {
+        "time": "待填寫",
+        "title": "待填寫",
+        "description": "請補上羅浮宮深度遊與凡爾賽宮時程。",
+        "mapUrl": ""
+      }
+    ]
+  },
+  {
+    "date": "2025-12-25",
+    "day": 13,
+    "city": "巴黎",
+    "country": "法國",
+    "hotel": "Mercure Paris Centre Gare Montparnasse",
+    "theme": "待填寫：戰神廣場 & 香榭麗舍",
+    "weather": "巴黎約 2–6°C，夜晚觀賞燈飾較冷。",
+    "events": [
+      {
+        "time": "待填寫",
+        "title": "待填寫",
+        "description": "請補上 Invalides、塞納河散步、戰神廣場與香榭麗舍行程。",
+        "mapUrl": ""
+      }
+    ]
+  },
+  {
+    "date": "2025-12-26",
+    "day": 14,
+    "city": "巴黎 → 倫敦",
+    "country": "法國 / 英國",
+    "hotel": "Point A",
+    "theme": "待填寫：巴黎最後上午 & Eurostar",
+    "weather": "巴黎早上約 2–8°C；倫敦晚上約 3–9°C，常有毛毛雨。",
+    "events": [
+      {
+        "time": "待填寫",
+        "title": "待填寫",
+        "description": "請補上巴黎最後活動、Gare du Nord 搭乘 Eurostar 及抵達倫敦。",
+        "mapUrl": ""
+      }
+    ]
+  },
+  {
+    "date": "2025-12-27",
+    "day": 15,
+    "city": "倫敦",
+    "country": "英國",
+    "hotel": "Point A",
+    "theme": "待填寫：倫敦重點 & 聖誕市集",
+    "weather": "倫敦 12 月約 3–9°C，多雲，有時有小雨，風大時體感更冷。",
+    "events": [
+      {
+        "time": "待填寫",
+        "title": "待填寫",
+        "description": "請補上 Southbank 市集、London Bridge、Covent Garden 等行程。",
+        "mapUrl": ""
+      }
+    ]
+  }
+]
