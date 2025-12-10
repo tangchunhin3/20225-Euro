@@ -5,44 +5,62 @@
     "city": "米蘭",
     "country": "意大利",
     "hotel": "IQ Hotel Milano",
-    "theme": "米蘭大教堂 & 市中心逛街",
+    "theme": "米蘭大教堂 & 藝術復興百貨",
     "weather": "12 月中旬米蘭約 0–8°C，早晚寒冷且常有霧，務必準備厚外套、圍巾與手套。",
     "events": [
       {
-        "time": "早上",
-        "title": "抵達米蘭 & 入住酒店",
-        "description": "從香港抵達米蘭 Malpensa 機場後，搭乘巴士或火車前往市區，於 IQ Hotel Milano 辦理入住並稍作休息。",
+        "time": "00:55–07:40",
+        "title": "搭乘國泰航空 CX233 抵達米蘭",
+        "description": "從香港國際機場（HKG）起飛，於米蘭馬爾彭薩機場（MXP）著陸，約 10 小時航程。搭乘機場巴士或火車前往市區，建議提早 30 分鐘至櫃檯登記。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Milan+Malpensa+Airport"
+      },
+      {
+        "time": "上午",
+        "title": "寄放行李 & 酒店入住",
+        "description": "至 IQ Hotel Milano 前台寄放行李（通常下午 3 點才能正式入住），簡單整理後可先去市區散步。",
         "mapUrl": "https://www.google.com/maps/search/?api=1&query=IQ+Hotel+Milano"
       },
       {
-        "time": "10:00–12:00",
-        "title": "米蘭大教堂 Duomo & 地下遺址",
-        "description": "前往米蘭最著名的米蘭大教堂（Duomo），參觀教堂內部與地下考古區，如有預約可登上屋頂欣賞米蘭市景。",
+        "time": "10:00–12:30",
+        "title": "米蘭大教堂（Duomo）& 博物館與地下遺址",
+        "description": "參觀米蘭最著名的哥德式大教堂，可購票上屋頂欣賞 135 尖塔與市景（約 €10–15）。地下考古區展示中世紀遺跡。<a href='https://www.duomomilano.it/' target='_blank'>官網預約</a>以跳過排隊。",
         "mapUrl": "https://www.google.com/maps/search/?api=1&query=Duomo+di+Milano"
       },
       {
         "time": "12:00–13:30",
-        "title": "午餐：大教堂附近 trattoria",
-        "description": "在大教堂附近找一間評價不錯的 trattoria，品嚐米蘭燉飯與燉牛膝，可用 Google 地圖搜尋 4.3 分以上的餐廳。",
-        "mapUrl": "https://www.google.com/maps/search/?api=1&query=restaurant+near+Duomo+di+Milano"
+        "title": "午餐：大教堂附近傳統 trattoria",
+        "description": "推薦：<strong>Fortino Milano</strong>（米蘭菜，€15–25）、<strong>Princi 麵包店</strong>（蜂蜜羊角包，€3–5）旁 Duomo 周邊小館。品嚐米蘭燉飯（Risotto alla Milanese）與燉牛膝（Ossobuco）。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=restaurant+near+Duomo+Milano"
       },
       {
-        "time": "13:30–16:00",
-        "title": "艾曼紐二世迴廊 & Rinascente 百貨",
-        "description": "步行前往艾曼紐二世迴廊與 Rinascente 百貨逛街，欣賞玻璃穹頂與聖誕裝飾，順便選購精品或紀念品。",
+        "time": "13:00–14:30",
+        "title": "斯卡拉劇院（La Scala）& 布雷拉美術館外觀",
+        "description": "步行前往歷史悠久的斯卡拉劇院（La Scala），感受米蘭文藝氣息。可外觀觀看或參加導遊（€15）。旁邊布雷拉（Brera）區充滿畫廊與咖啡館。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=La+Scala+Theatre+Milan"
+      },
+      {
+        "time": "14:00–16:30",
+        "title": "艾曼紐二世迴廊（Galleria）& Rinascente 百貨",
+        "description": "漫步優雅的玻璃穹頂商廊，欣賞聖誕裝飾與精品店。Rinascente 百貨有當地品牌與國際奢侈品牌。<a href='https://www.yesmilano.it/en/see-and-do/venues/galleria-vittorio-emanuele-ii' target='_blank'>官網更多資訊</a>。",
         "mapUrl": "https://www.google.com/maps/search/?api=1&query=Galleria+Vittorio+Emanuele+II"
       },
       {
         "time": "16:00–18:00",
-        "title": "星巴克旗艦店 & 聖誕市集",
-        "description": "前往 Starbucks Reserve Roastery（米蘭烘焙工坊），喝咖啡、買限定周邊，之後逛市中心聖誕市集與街頭燈飾。",
-        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Starbucks+Reserve+Roastery+Milan"
+        "title": "Starbucks Reserve Roastery & 聖誕市集",
+        "description": "到米蘭獨特的星巴克旗艦店（Duomo 附近），享受咖啡與限定週邊。聖誕市集（12 月開放）販售聖誕裝飾、糖果與烤栗子。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Starbucks+Reserve+Milan+Duomo"
       },
       {
-        "time": "19:00 之後",
+        "time": "19:00",
         "title": "晚餐 & 夜遊 Duomo 廣場",
-        "description": "晚餐可在 Brera 區或大教堂周邊享用義大利料理，飯後再回到 Duomo 廣場散步、拍夜景，感受聖誕氣氛。",
-        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Piazza+del+Duomo+Milano"
+        "description": "晚餐推薦：<strong>Sapori & Dintorni Supermarket</strong>（7–21 點營業，輕食與沙拉，€8–15） 或 <strong>Brera 區 trattoria</strong>。飯後回到 Duomo 廣場散步、拍夜景，感受聖誕聖堂燈光秀。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=dinner+Milan+Duomo+area"
+      },
+      {
+        "time": "必買物品",
+        "title": "米蘭必買清單",
+        "description": "<strong>潘娜朵尼聖誕蛋糕</strong>（€15–30，義大利聖誕限定）、<strong>Tatufo 松露巧克力</strong>（€10–20）、<strong>意大利皮具與圍巾</strong>（Brera 與 Rinascente）、<strong>意大利紅酒</strong>（€10–50）。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=shopping+Milan+Brera"
       }
     ]
   },
@@ -52,38 +70,44 @@
     "city": "米蘭",
     "country": "意大利",
     "hotel": "IQ Hotel Milano",
-    "theme": "球賽 & 最後的晚餐",
+    "theme": "AC 米蘭球賽 & 最後的晚餐",
     "weather": "米蘭約 0–8°C，晚上離開球場時特別冷，建議穿羽絨外套與帽子手套。",
     "events": [
       {
         "time": "上午",
-        "title": "自由活動 & 市中心散步",
-        "description": "可補眠或在市中心簡單散步、買咖啡與早餐，為下午球賽保留體力。",
-        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Milano+Centro"
+        "title": "自由活動 & 補眠 & 早午餐",
+        "description": "可在酒店補眠或在市中心優雅地享受早午餐（€10–20），如 <strong>Café Marly</strong> 或米蘭咖啡館。為下午球賽保留體力。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=cafe+breakfast+Milan"
       },
       {
         "time": "12:30",
-        "title": "前往 San Siro 球場看 AC 米蘭主場",
-        "description": "搭乘地鐵 M5 前往 San Siro Stadio 站，提早入場欣賞球場與熱身氣氛，可於官方網站查詢及購票。",
+        "title": "搭地鐵前往 San Siro 球場看 AC 米蘭主場比賽",
+        "description": "乘地鐵 M5 或 M2 至 San Siro Stadio 站（約 20 分鐘），提早 1 小時入場欣賞球場與熱身氛圍。<a href='https://booking.acmilan.com/en/serie-a/milan-sassuolo/' target='_blank'>官方訂票</a>（€50–150）。11 月中旬開賣，現已確認為 AC Milan vs US Sassuolo。",
         "mapUrl": "https://www.google.com/maps/search/?api=1&query=San+Siro+Stadium+Milan"
       },
       {
-        "time": "下午",
-        "title": "球賽結束 & 球場周邊散步",
-        "description": "球賽結束後可在球場周邊購買球衣、圍巾等紀念品，再搭地鐵返回市中心。",
-        "mapUrl": "https://www.google.com/maps/search/?api=1&query=San+Siro+Store+Milan"
+        "time": "球賽後 (約 17:30)",
+        "title": "球場周邊散步 & 球迷購物",
+        "description": "球賽結束後在球場附近購買 AC Milan 官方球衣、圍巾、帽子等紀念品（€20–80）。<a href='https://www.acmilanstore.com/' target='_blank'>AC Milan Store</a> 就在球場旁。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=AC+Milan+Store+San+Siro"
       },
       {
-        "time": "17:30",
-        "title": "恩寵聖母教堂《最後的晚餐》",
-        "description": "按預約時間前往恩寵聖母教堂，參觀達文西名畫《最後的晚餐》，需提前網上訂票並提早抵達辦理入場。",
+        "time": "17:30（預約時間）",
+        "title": "恩寵聖母教堂（Santa Maria delle Grazie）參觀《最後的晚餐》",
+        "description": "搭地鐵返回市中心（約 30 分鐘），進入聯合國教科文遺產教堂，欣賞達文西名畫《最後的晚餐》（15 分鐘內）。需提前網上<a href='https://cenacolovinciano.vivaticket.it/en/myvivaticket' target='_blank'>預約</a>（€10–15，通常 30 分鐘時段）。抵達時間務必提早 15 分鐘。",
         "mapUrl": "https://www.google.com/maps/search/?api=1&query=Santa+Maria+delle+Grazie+Milan"
       },
       {
-        "time": "晚上",
-        "title": "晚餐 & 返回酒店休息",
-        "description": "可在 Cadorna 或 Brera 一帶找傳統餐廳用餐，之後返回 IQ Hotel Milano 休息。",
-        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Brera+district+Milan"
+        "time": "19:00–21:00",
+        "title": "晚餐 & 夜散步",
+        "description": "晚餐推薦：<strong>Cadorna 區 cotoletta alla milanese</strong>（€15–25）、<strong>Brera 區義大利麵與紅酒</strong>（€20–35）。飯後漫步市中心，享受米蘭聖誕夜景。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=restaurant+Cadorna+Milan"
+      },
+      {
+        "time": "必做物品",
+        "title": "米蘭 Day 2 重點",
+        "description": "<strong>球迷紀念品：</strong>AC Milan 球衣（€80–150）、圍巾（€15–30）、貼紙與海報。<strong>宗教紀念品：</strong>教堂周邊小十字架、聖卡片（€2–10）。<strong>美食：</strong>panettone、gelato。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Milan+gift+shop"
       }
     ]
   },
@@ -93,38 +117,56 @@
     "city": "科莫湖（一日遊）",
     "country": "意大利",
     "hotel": "IQ Hotel Milano",
-    "theme": "湖光山色 & 小鎮散步",
-    "weather": "科莫湖 12 月約 2–7°C，靠水邊濕冷，建議戴帽子與手套。",
+    "theme": "湖光山色 & Varenna & Bellagio 小鎮",
+    "weather": "科莫湖 12 月約 2–7°C，靠水邊濕冷，建議戴帽子、圍巾與手套。",
     "events": [
       {
         "time": "09:20–10:24",
-        "title": "火車：米蘭 → Varenna-Esino",
-        "description": "於 Milano Centrale 搭乘 Trenord 火車前往 Varenna-Esino，建議坐火車左側欣賞湖景。",
-        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Milano+Centrale"
+        "title": "火車：Milano Centrale → Varenna-Esino（Trenord）",
+        "description": "從米蘭中央車站搭乘 Trenord 區間火車（班次 2818），票號 2686998507。<strong>重點：請坐火車左側欣賞科莫湖景！</strong>沿途可見湖景、小鎮與雪山。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Milano+Centrale+train+station"
       },
       {
-        "time": "上午晚段",
-        "title": "Varenna 小鎮散步",
-        "description": "抵達後在 Varenna 湖畔與小鎮內散步，拍照並享受寧靜氣氛。",
-        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Varenna+Italy"
+        "time": "10:24–12:00",
+        "title": "抵達 Varenna-Esino & 小鎮散步",
+        "description": "抵達寧靜的湖濱小鎮 Varenna，沿著窄小的石板路散步、拍照，欣賞湖景與對岸 Bellagio 全景。推薦上行走到山坡小教堂，俯瞰整個科莫湖。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Varenna+Italy+Lake+Como"
       },
       {
-        "time": "中午–下午",
-        "title": "渡輪前往 Bellagio & 湖邊午餐",
-        "description": "搭乘渡輪前往 Bellagio，在湖畔餐廳享用午餐並漫步小鎮，之後視時間再返回 Varenna。",
-        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Bellagio+Lake+Como"
+        "time": "12:00–13:30",
+        "title": "渡輪（Navigazione Laghi）: Varenna → Bellagio & 湖畔午餐",
+        "description": "搭乘渡輪前往 Bellagio（約 10 分鐘），<a href='https://www.navigazionelaghi.it/' target='_blank'>船票查詢</a>。在 Bellagio 湖畔餐廳用午餐：湖魚料理、義大利麵、黃油奶油湯（€15–30）。坐戶外座位欣賞湖景。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Bellagio+Lake+Como+restaurant"
+      },
+      {
+        "time": "13:30–15:30",
+        "title": "Bellagio 小鎮散步 & 冰淇淋咖啡",
+        "description": "漫步 Bellagio 的精品店、藝廊與廣場，來一球冰淇淋（€3–5）或咖啡（€2–4）。<strong>Suso Gelato</strong> 與 <strong>Nino & friends chocolate shop</strong> 是當地名店。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Bellagio+gelato+cafe"
+      },
+      {
+        "time": "15:30–16:30",
+        "title": "渡輪返回 Varenna（如時間允許再逛街）",
+        "description": "搭渡輪回 Varenna（約 10 分鐘），再度欣賞湖景。有時間可逛 Varenna 紀念品店。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Navigazione+Laghi+ferry+Varenna"
       },
       {
         "time": "17:35–18:40",
-        "title": "火車：Varenna-Esino → 米蘭",
-        "description": "傍晚搭乘回程火車返回 Milano Centrale，途中可再次欣賞湖區傍晚景色。",
-        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Varenna-Esino+station"
+        "title": "火車返回米蘭：Varenna-Esino → Milano Centrale",
+        "description": "搭乘 Tremors 班次 2835 返回米蘭（票號 2686998508），一樣坐左側看湖景。約 1 小時。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Varenna+train+station"
       },
       {
-        "time": "晚上",
-        "title": "回米蘭市區晚餐 & 休息",
-        "description": "回到市區後隨意找一家餐廳用餐，可嘗試薄餅或簡單義大利麵，之後返回酒店休息。",
-        "mapUrl": "https://www.google.com/maps/search/?api=1&query=restaurant+near+IQ+Hotel+Milano"
+        "time": "19:00–21:00",
+        "title": "晚餐 & 返回酒店休息",
+        "description": "回到米蘭後，在市中心簡單晚餐：薄餅（€8–12）、義大利麵（€12–18） 或小食。返回 IQ Hotel Milano 休息準備明日前往威尼斯。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=dinner+Milan+near+train"
+      },
+      {
+        "time": "必買物品",
+        "title": "科莫湖必買",
+        "description": "<strong>科莫絲綢製品：</strong>圍巾、領帶、手帕（€20–80）。<strong>當地特產：</strong>湖產橄欖油（€15–30）、白葡萄酒 Franciacorta（€15–40）。<strong>小紀念品：</strong>冰箱貼、明信片。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Como+silk+shop+Bellagio"
       }
     ]
   },
@@ -134,89 +176,251 @@
     "city": "米蘭 → 威尼斯",
     "country": "意大利",
     "hotel": "NH Venezia Santa Lucia",
-    "theme": "前往水都 & 傍晚運河",
+    "theme": "前往水都 & 運河散步 & 威尼斯晚餐",
     "weather": "威尼斯 12 月約 2–8°C，空氣潮濕，偶有霧或細雨，注意鞋子防滑。",
     "events": [
       {
         "time": "09:35–12:03",
-        "title": "Italo 高鐵：米蘭 → 威尼斯",
-        "description": "從 Milano Centrale 搭乘 Italo 高鐵前往 Venezia S. Lucia，車程約 2 小時 30 分。",
-        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Milano+Centrale"
+        "title": "Italo 高鐵：Milano Centrale → Venezia S. Lucia",
+        "description": "搭乘 Italo 高鐵班次 8977（票號 ZBCMYI），約 2 小時 30 分鐘。車廂舒適，有WiFi與餐飲服務。<a href='https://www.italotreno.it/' target='_blank'>Italo 官網</a>查詢班次與票價（€50–100）。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Milano+Centrale+Italo+train"
       },
       {
-        "time": "中午",
-        "title": "抵達威尼斯 & 入住酒店",
-        "description": "抵達 Venezia S. Lucia 車站後，步行前往 NH Venezia Santa Lucia 辦理入住，放下行李並稍作休息。",
-        "mapUrl": "https://www.google.com/maps/search/?api=1&query=NH+Venezia+Santa+Lucia"
+        "time": "12:03 抵達",
+        "title": "威尼斯 Venezia S. Lucia 火車站 & 入住酒店",
+        "description": "抵達威尼斯聖露西亞火車站，步行約 3–5 分鐘至 <a href='https://www.google.com/maps/search/?api=1&query=NH+Venezia+Santa+Lucia' target='_blank'>NH Venezia Santa Lucia</a>（靠近車站）。辦理入住、放行李。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Venezia+S.+Lucia+station"
       },
       {
-        "time": "下午",
-        "title": "大運河 & 里阿爾托橋散步",
-        "description": "沿著大運河散步，慢慢走向里阿爾托橋與小巷中的商店，感受威尼斯水都氣氛。",
-        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Rialto+Bridge+Venice"
-      },
-      {
-        "time": "19:00",
-        "title": "Impronta 晚餐",
-        "description": "前往預訂好的 Impronta Restaurant 用餐，建議提早到附近走走拍照。",
+        "time": "12:30–13:30",
+        "title": "午餐 & 大運河漫遊",
+        "description": "在車站附近或聖馬可廣場周邊享用午餐：<strong>Impronta Restaurant</strong>（已預訂，19:00 用晚餐，先去看看）或沿運河邊的小館享用 cicchetti（威尼斯小食，€2–5）與 Spritz 小酒（€3–4）。",
         "mapUrl": "https://www.google.com/maps/search/?api=1&query=Impronta+Restaurant+Venice"
       },
       {
-        "time": "晚間",
-        "title": "夜遊聖馬可廣場",
-        "description": "如體力許可，可搭水上巴士或步行前往聖馬可廣場，晚上人潮較少，適合拍夜景。",
-        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Piazza+San+Marco+Venezia"
+        "time": "13:30–17:30",
+        "title": "威尼斯中心散步：里阿爾托橋、小巷、彩色島預覽",
+        "description": "漫步威尼斯小巷與運河，欣賞水上建築奇景。經過里阿爾托橋（Rialto Bridge）、古老市場與手工藝品店。搭 ACTV 水上巴士（€7.50 單次或€60/7 天）體驗水運。<a href='https://actv.avmspa.it/' target='_blank\">ACTV 官網</a>。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Rialto+Bridge+Venice"
+      },
+      {
+        "time": "17:00–18:30",
+        "title": "聖馬可廣場附近散步 & 傍晚光線拍照",
+        "description": "漫步聖馬可廣場及周邊，欣賞巴西利卡、鐘樓與運河倒影。傍晚光線特別優美，適合拍照。可在廣場邊咖啡館坐著欣賞夜幕降臨。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Piazza+San+Marco+Venice"
+      },
+      {
+        "time": "19:00（預訂時間）",
+        "title": "Impronta Restaurant 晚餐",
+        "description": "享受預訂好的 Impronta 晚餐（正式義大利餐廳，€30–60），品嚐海鮮義大利麵、海膽、新鮮魚類。建議搭配當地白葡萄酒（€20–40 瓶）。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Impronta+Restaurant+Venice"
+      },
+      {
+        "time": "20:30 之後",
+        "title": "夜遊威尼斯 & 返回酒店",
+        "description": "晚餐後可在聖馬可廣場附近閒散漫步，感受威尼斯夜晚的寧靜氣氛，或乘渡輪沿大運河回酒店。返回 NH Venezia Santa Lucia 休息。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Venice+night+walk+San+Marco"
+      },
+      {
+        "time": "必買物品",
+        "title": "威尼斯必買清單",
+        "description": "<strong>穆拉諾玻璃製品：</strong>小飾品、杯子（€10–50）。<strong>威尼斯面具：</strong>手工面具（€15–100）。<strong>手工紙製品：</strong>筆記本、信紙（€10–30）。<strong>水都特色：</strong>明信片、船模型、蕾絲製品。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Venice+souvenir+shop+glass+mask"
       }
     ]
   },
   {
     "date": "2025-12-17",
     "day": 5,
-    "city": "佛羅倫斯",
+    "city": "威尼斯 → 佛羅倫斯",
     "country": "意大利",
     "hotel": "C-Hotel Diplomat Firenze",
-    "theme": "待填寫：佛羅倫斯行程",
-    "weather": "佛羅倫斯 12 月約 3–10°C，白天步行舒適，晚上偏冷。",
+    "theme": "前往文藝復興之城 & 中央市場 & 學院美術館",
+    "weather": "佛羅倫斯 12 月約 3–10°C，白天通常清爽，晚上稍涼。",
     "events": [
       {
-        "time": "待填寫",
-        "title": "待填寫",
-        "description": "請根據 Excel 內容補上佛羅倫斯當天的詳細時間軸。",
-        "mapUrl": ""
+        "time": "07:05–09:20",
+        "title": "Italo 高鐵：Venezia S.Lucia → Firenze S.M.Novella",
+        "description": "早起搭乘 Italo 高鐵班次 8903（票號 DBY38P），約 2 小時 15 分。車廂內有早餐與咖啡服務。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Venezia+S.Lucia+train+station"
+      },
+      {
+        "time": "09:20 抵達",
+        "title": "佛羅倫斯聖瑪麗亞新聖殿車站 & 入住酒店",
+        "description": "抵達後步行至 <a href='https://www.google.com/maps/search/?api=1&query=C-Hotel+Diplomat+Firenze' target='_blank'>C-Hotel Diplomat Firenze</a>（距車站約 1 公里，10 分鐘步行），辦理入住、放行李。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Firenze+S.M.Novella+train+station"
+      },
+      {
+        "time": "10:00–12:00",
+        "title": "中央市場（Mercato Centrale）& 聖瑪麗亞新聖殿教堂外觀",
+        "description": "前往佛羅倫斯傳統食材市場，品嚐當地美食：新鮮起司（€5–10）、義大利火腿（€8–15）、蔬菜湯（Ribollita，€6–10）。旁邊聖瑪麗亞新聖殿（Santa Maria Novella）是文藝復興傑作，可在外觀拍照或內部參觀（€5）。<a href='https://www.google.com/maps/search/?api=1&query=Mercato+Centrale+Firenze' target='_blank'>市場詳情</a>。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Mercato+Centrale+Firenze"
+      },
+      {
+        "time": "10:30–11:30",
+        "title": "聖瑪麗亞百年藥妝（Officina Profumo-Farmaceutica di Santa Maria Novella）",
+        "description": "參觀這家 1612 年創立的歷史藥妝館，販售草本香水、護膚品與精油（€20–80）。其獨特香氣與古老裝飾吸引全球遊客。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Officina+Profumo+Santa+Maria+Novella+Florence"
+      },
+      {
+        "time": "11:30–12:45",
+        "title": "學院美術館（Galleria dell'Accademia）參觀米開朗基羅《大衛像》",
+        "description": "前往學院美術館欣賞舉世聞名的米開朗基羅《大衛像》（於 1504 年完成，高 4.34 米）。需購票（€15，或使用佛羅倫斯美術通票）。<a href='https://www.google.com/maps/search/?api=1&query=Galleria+dell'Accademia+Florence' target='_blank'>官網預約</a>以避免排隊。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Galleria+dell'Accademia+David+Florence"
+      },
+      {
+        "time": "13:00–14:30",
+        "title": "午餐：佛羅倫斯傳統餐廳",
+        "description": "推薦：<strong>Trattoria Dall'Oste</strong>（丁骨牛排，€30–50、米蘭燉飯）、<strong>All'antico Vinaio</strong>（三明治名店，€5–10、排隊必吃）或聖母百花廣場附近小館。品嚐當地葡萄酒（€15–30）。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Trattoria+Dall'Oste+Florence"
+      },
+      {
+        "time": "13:30–14:45",
+        "title": "聖母百花大教堂（Cathedral of Santa Maria del Fiore）& 洗禮堂 & 大教堂博物館",
+        "description": "欣賞橘紅色穹頂與大理石立面，外觀拍照。可購票登圓頂頂部（€18，約 463 級階梯，需 45 分鐘）或參觀洗禮堂（€7）與大教堂博物館（€8，展示建築精細雕刻與聖物）。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Cathedral+Santa+Maria+del+Fiore+Florence"
+      },
+      {
+        "time": "15:00–16:30",
+        "title": "領主廣場（Piazza della Signoria）& 烏菲茲美術館外觀",
+        "description": "漫步領主廣場，欣賞大衛像複製品、海神噴泉與舊宮（Palazzo Vecchio）外觀。烏菲茲美術館（Uffizi Galleries）收藏波提切利《維納斯的誕生》，可預約入內（€20）或直接逛廣場。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Piazza+della+Signoria+Florence"
+      },
+      {
+        "time": "17:00–18:00",
+        "title": "老橋（Ponte Vecchio）散步 & 夕陽拍照",
+        "description": "漫步阿爾諾河上的老橋，兩側是金匠與珠寶店。傍晚光線優美，適合拍攝河景與橋樑倒影。河邊酒吧小坐享受日落（€5–10）。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Ponte+Vecchio+Florence"
+      },
+      {
+        "time": "19:00（預訂時間）",
+        "title": "Trattoria Dall'Oste 晚餐（如未於午餐時用）",
+        "description": "享受預訂好的晚餐：<strong>丁骨牛排（Bistecca alla Fiorentina）</strong>（€40–70）、葡萄酒與起司拼盤。佛羅倫斯最道地的肉類料理。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Trattoria+Dall'Oste+Florence+dinner"
+      },
+      {
+        "time": "20:30 之後",
+        "title": "返回酒店休息",
+        "description": "飯後漫步返回 C-Hotel Diplomat Firenze，可在酒店旁的小街巷散步，感受佛羅倫斯聖誕夜景。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=C-Hotel+Diplomat+Firenze"
+      },
+      {
+        "time": "必買物品",
+        "title": "佛羅倫斯必買清單",
+        "description": "<strong>皮革製品：</strong>皮夾、皮包、皮鞋（€30–200）。<strong>手工藝品：</strong>手工紙製品、大理石工藝品（€15–80）。<strong>護膚品：</strong>聖瑪麗亞百年藥妝香水（€40–80）。<strong>藝術品：</strong>油畫複製品、銅雕（€20–100）。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=leather+shop+Florence+Oltrarno"
       }
     ]
   },
   {
     "date": "2025-12-18",
     "day": 6,
-    "city": "佛羅倫斯 & 比薩",
+    "city": "佛羅倫斯 & 比薩（一日遊）",
     "country": "意大利",
     "hotel": "C-Hotel Diplomat Firenze",
-    "theme": "待填寫：比薩一日遊",
-    "weather": "比薩 / 佛羅倫斯約 4–11°C，可能有風。",
+    "theme": "比薩斜塔 & 奇蹟廣場 & 返回佛羅倫斯",
+    "weather": "比薩／佛羅倫斯 12 月約 4–11°C，可能有風。",
     "events": [
       {
-        "time": "待填寫",
-        "title": "待填寫",
-        "description": "請根據 Excel 內容補上火車時間與比薩斜塔等景點。",
-        "mapUrl": ""
+        "time": "10:00–11:00",
+        "title": "早餐與準備 & 火車至比薩",
+        "description": "酒店享用早餐後，收拾行李至火車站。從 Firenze S.M.Novella 搭乘區間火車至 Pisa S. Rossore（約 1 小時 23 分）。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Firenze+train+station"
+      },
+      {
+        "time": "12:53–14:11",
+        "title": "火車：Firenze S.M.Novella → Pisa S. Rossore",
+        "description": "登上前往比薩的列車，欣賞托斯卡尼鄉村風景。抵達 Pisa S. Rossore 後，步行至奇蹟廣場（Piazza dei Miracoli，約 1 公里，15 分鐘）。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Pisa+S.+Rossore+train+station"
+      },
+      {
+        "time": "14:30–16:30",
+        "title": "比薩斜塔（Leaning Tower of Pisa）& 奇蹟廣場",
+        "description": "抵達世界聞名的比薩斜塔，在廣場前拍攝經典「扶塔」照片。可購票登塔（€18–19，需 45 分鐘，含 294 級階梯），俯瞰比薩市景。<a href='https://www.pisaturismo.it/' target='_blank'>官網</a>與廣場上聖母大教堂（Cattedrale di Pisa）、洗禮堂（Battistero）也值得參觀（€10–15）。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Pisa+Leaning+Tower+Piazza+dei+Miracoli"
+      },
+      {
+        "time": "16:00–17:00",
+        "title": "廣場周邊散步 & 冰淇淋咖啡",
+        "description": "漫步奇蹟廣場，欣賞建築奇蹟與草坪上的遊客。購買紀念品（€2–20）或享受 <strong>Suso Gelato</strong> 冰淇淋（€3–5）與咖啡。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=gelato+cafe+Pisa+Piazza+dei+Miracoli"
+      },
+      {
+        "time": "17:46–19:08",
+        "title": "火車返回佛羅倫斯：Pisa S. Rossore → Firenze S.M.Novella",
+        "description": "搭乘傍晚列車返回佛羅倫斯（約 1 小時 22 分），回程時欣賞黃昏托斯卡尼美景。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Pisa+train+station+return+Florence"
+      },
+      {
+        "time": "19:30–21:00",
+        "title": "晚餐（回佛羅倫斯後）",
+        "description": "回到佛羅倫斯後，在市中心享用簡單晚餐：披薩（€8–15）、義大利麵（€12–18）、沙拉（€8–12）。推薦在佛羅倫斯中心（如 Oltrarno 區）隨意選擇小餐廳。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=restaurant+Florence+city+center"
+      },
+      {
+        "time": "必買物品",
+        "title": "比薩一日遊必買",
+        "description": "<strong>比薩紀念品：</strong>斜塔模型（€5–20）、明信片（€1–3）。<strong>當地特產：</strong>義大利葡萄酒（Chianti，€15–40）、起司（€10–30）。<strong>工藝品：</strong>陶藝製品、天然皮革製品。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=souvenir+shop+Pisa+Leaning+Tower"
       }
     ]
   },
   {
     "date": "2025-12-19",
     "day": 7,
-    "city": "羅馬",
+    "city": "佛羅倫斯 → 羅馬",
     "country": "意大利",
     "hotel": "The Hive Hotel",
-    "theme": "待填寫：古羅馬遺跡",
-    "weather": "羅馬約 5–12°C，較北部溫和。",
+    "theme": "古羅馬競技場 & 古羅馬廣場 & 帕拉蒂諾山",
+    "weather": "羅馬 12 月約 5–12°C，較北部溫和，冬日陽光舒適。",
     "events": [
       {
-        "time": "待填寫",
-        "title": "待填寫",
-        "description": "請補上羅馬競技場、古羅馬廣場等時間軸。",
-        "mapUrl": ""
+        "time": "09:03–10:40",
+        "title": "Italo 高鐵：Firenze S.M.Novella → Roma Termini",
+        "description": "搭乘 Italo 高鐵班次 8951（票號 PC4B3P），約 1 小時 40 分。列車舒適，有早餐服務。<a href='https://www.italotreno.it/' target='_blank'>Italo 官網</a>查詢班次。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Firenze+S.M.Novella+station+trains"
+      },
+      {
+        "time": "10:40 抵達",
+        "title": "羅馬特米尼中央車站 & 入住酒店",
+        "description": "抵達後搭地鐵或的士至 <a href='https://www.google.com/maps/search/?api=1&query=The+Hive+Hotel+Rome' target='_blank'>The Hive Hotel</a>（現代藝術設計酒店，位於 Esquilino 區，靠近火車站），辦理入住、放行李。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Roma+Termini+central+station"
+      },
+      {
+        "time": "11:00–12:30",
+        "title": "午餐 & 羅馬中心散步",
+        "description": "在火車站附近或城中心享用午餐：傳統羅馬料理如 <strong>Carbonara</strong>（€12–18）、<strong>Cacio e Pepe</strong>（€12–16）、披薩（€8–14）。推薦餐廳：<strong>Baccano</strong>（Via delle Muratte 23，€20–40）。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Carbonara+restaurant+Rome"
+      },
+      {
+        "time": "13:30–15:30",
+        "title": "羅馬競技場（Colosseum）參觀",
+        "description": "購票進入 2000 年歷史的羅馬競技場，欣賞古羅馬帝國建築奇蹟。需購票（€18–22，含古羅馬廣場 & 帕拉蒂諾山），<a href='https://ticketing.colosseo.it/en/' target='_blank\">官網預約</a>以避免排隊。導遊服務（€10–25）增進了解。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Colosseum+Rome+tickets"
+      },
+      {
+        "time": "15:00–17:00",
+        "title": "古羅馬廣場（Foro Romano）& 帕拉蒂諾山（Palatino）",
+        "description": "同票參觀古羅馬廣場遺跡（凱撒廟、維斯塔神廟等）與帕拉蒂諾山皇帝宮殿遺址。漫步古跡，想像羅馬帝國當年榮光。黃昏時拍照特別美。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Roman+Forum+Palatine+Hill+Rome"
+      },
+      {
+        "time": "17:00–18:30",
+        "title": "威尼斯廣場（Piazza Venezia）& 維托里亞諾紀念堂",
+        "description": "前往壯麗的威尼斯廣場（維托里亞諾紀念堂），可登上屋頂露台（€12）欣賞羅馬全景。紀念堂是義大利統一的象徵，白色大理石壯觀。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Piazza+Venezia+Rome+Vittoriano"
+      },
+      {
+        "time": "18:30–21:00",
+        "title": "晚餐 & 漫步羅馬夜景",
+        "description": "晚餐推薦：<strong>Baccano</strong>（€20–40）或 <strong>Roma Sparita</strong>（傳統 Carbonara，€15–25）。飯後漫步羅馬中心、享受聖誕燈飾與夜景。返回 The Hive Hotel 休息。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Baccano+Roma+Sparita+dinner+Rome"
+      },
+      {
+        "time": "必買物品",
+        "title": "羅馬 Day 7 重點購物",
+        "description": "<strong>宗教紀念品：</strong>小十字架、聖卡片、玫瑰念珠（€2–20）。<strong>義大利特產：</strong>紅酒、帕瑪火腿、帕瑪森起司（€15–50）。<strong>工藝品：</strong>羅馬競技場模型（€10–30）。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=souvenir+shop+Rome+Colosseum"
       }
     ]
   },
@@ -226,14 +430,50 @@
     "city": "羅馬",
     "country": "意大利",
     "hotel": "The Hive Hotel",
-    "theme": "待填寫：梵蒂岡 & Trastevere",
-    "weather": "梵蒂岡與羅馬天氣相似，約 5–12°C。",
+    "theme": "梵蒂岡 & 聖彼得大教堂 & 梵蒂岡博物館 & Trastevere 晚餐",
+    "weather": "羅馬 12 月約 5–12°C，梵蒂岡週邊可能人潮眾多。",
     "events": [
       {
-        "time": "待填寫",
-        "title": "待填寫",
-        "description": "請補上梵蒂岡博物館、聖彼得大教堂與 Trastevere 晚餐等內容。",
-        "mapUrl": ""
+        "time": "09:00–13:00",
+        "title": "梵蒂岡博物館（Vatican Museums）& 西斯汀禮拜堂（Sistine Chapel）",
+        "description": "早起前往梵蒂岡，參觀全球最偉大美術館之一。欣賞米開朗基羅《創造亞當》天花板壁畫、拉斐爾房間等傑作。<a href='https://www.museivaticani.va/' target='_blank'>官網</a>強烈建議提前預約 08:30–09:00 時段（€20–25，線上購票可跳過排隊）。預計 3–4 小時。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Vatican+Museums+Rome"
+      },
+      {
+        "time": "13:00–14:00",
+        "title": "梵蒂岡附近午餐",
+        "description": "在梵蒂岡周邊享用午餐：義大利麵（€12–18）、沙拉（€10–15）、披薩（€8–12）。推薦靠近博物館出口的小館。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=restaurant+Vatican+Rome"
+      },
+      {
+        "time": "14:00–15:00",
+        "title": "聖彼得大教堂（St. Peter's Basilica）參觀 & 可選登頂",
+        "description": "進入全球最大教堂，欣賞米開朗基羅《聖殤像》與貝尼尼聖龕。可購票登上穹頂頂部（€10–18，約 320 級階梯，需 45 分鐘），俯瞰梵蒂岡城與羅馬全景。<a href='https://www.museivaticani.va/' target='_blank'>同博物館票務系統</a>。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=St.+Peter's+Basilica+Vatican+Rome"
+      },
+      {
+        "time": "15:00–18:00",
+        "title": "聖天使堡（Castel Sant'Angelo）& 聖天使橋（Ponte Sant'Angelo）散步",
+        "description": "從梵蒂岡沿台伯河漫步至聖天使堡（約 20 分鐘），欣賞橋樑與河景。聖天使堡可登上露台眺望羅馬（€15，開放至 19:30）。橋上有天使雕像與鎖頭裝飾。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Castel+Sant'Angelo+Rome"
+      },
+      {
+        "time": "18:30–21:00",
+        "title": "Trastevere（特拉斯特維列）區晚餐 & 漫步",
+        "description": "前往羅馬最迷人的街區 Trastevere，聖瑪利亞廣場（Basilica di Santa Maria in Trastevere）周邊滿是餐廳。<strong>推薦餐廳：</strong><strong>Piccolo Buco</strong>（€25–45）、傳統 Carbonara（€15–25）、海鮮料理（€20–40）。享受石板路、燭光與聖誕裝飾氛圍。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Trastevere+Rome+restaurant"
+      },
+      {
+        "time": "21:00 之後",
+        "title": "夜遊 Trastevere & 返回酒店",
+        "description": "晚餐後漫步 Trastevere 石板路與小巷，欣賞羅馬夜景與聖誕燈飾。返回 The Hive Hotel 休息，為明天梵蒂岡行程養精蓄銳。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Trastevere+night+walk+Rome"
+      },
+      {
+        "time": "必買物品",
+        "title": "梵蒂岡 & Trastevere 必買",
+        "description": "<strong>宗教聖物：</strong>玫瑰念珠（€10–50）、梵蒂岡郵票與明信片（€1–10）、聖像卡片。<strong>義大利美食：</strong>高級橄欖油（€20–40）、巴薩米克醋（€15–35）、帕瑪森起司（€15–30）。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=souvenir+Vatican+Rome"
       }
     ]
   },
@@ -243,31 +483,103 @@
     "city": "羅馬",
     "country": "意大利",
     "hotel": "The Hive Hotel",
-    "theme": "待填寫：廣場 & 噴泉",
-    "weather": "羅馬約 6–12°C，若天晴非常舒適。",
+    "theme": "納沃納廣場 & 特雷維噴泉 & 萬神廟 & 西班牙廣場 & 聖誕市集",
+    "weather": "羅馬 12 月約 6–12°C，白天舒適，晚上涼爽。",
     "events": [
       {
-        "time": "待填寫",
-        "title": "待填寫",
-        "description": "請補上納沃納廣場、萬神殿、特雷維噴泉、西班牙階梯等。",
-        "mapUrl": ""
+        "time": "09:00–11:00",
+        "title": "納沃納廣場（Piazza Navona）& 聖誕市集",
+        "description": "前往羅馬最美的廣場之一，欣賞貝尼尼設計的三座噴泉。12 月期間廣場上充滿聖誕市集（最多攤位、糖果與烤栗子）。購買聖誕禮物、熱巧克力（€3–5）與 <strong>Maritozzi</strong>（奶油麵包，€3–5）。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Piazza+Navona+Rome+Christmas+market"
+      },
+      {
+        "time": "11:00–12:30",
+        "title": "午餐：廣場附近小館",
+        "description": "在納沃納廣場周邊隨意選擇小館享用午餐：披薩（€8–14）、義大利麵（€12–18）、沙拉與當地葡萄酒（€15–30 瓶）。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=restaurant+Piazza+Navona+Rome"
+      },
+      {
+        "time": "12:30–13:45",
+        "title": "萬神殿（Pantheon）參觀",
+        "description": "進入 2000 年古蹟，欣賞圓形穹頂與採光孔。免費進入大廳（可看外面），或購票內部參觀（€12，需檢查開放時間）。<a href='https://www.archeoroma.org/sites/pantheon/tickets/' target='_blank'>官網</a>。這是羅馬最保存完好的古建築。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Pantheon+Rome"
+      },
+      {
+        "time": "14:00–15:30",
+        "title": "特雷維噴泉（Trevi Fountain）& 許願儀式",
+        "description": "前往全球最著名的噴泉，投入硬幣許願（傳說投一枚硬幣會重返羅馬，投兩枚會遇見摯愛）。傍晚人潮較少，更適合拍照。附近有咖啡館與冰淇淋店（€2–5）。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Trevi+Fountain+Rome"
+      },
+      {
+        "time": "15:30–17:00",
+        "title": "西班牙廣場（Piazza di Spagna）& 西班牙階梯（Spanish Steps）",
+        "description": "漫步羅馬最優雅的廣場，欣賞 138 級階梯與巴洛克建築。聖誕期間裝飾特別美麗。廣場邊咖啡館（€5–10）適合小坐賞景。推薦品嚐 Gelato（€3–5）。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Piazza+Spagna+Spanish+Steps+Rome"
+      },
+      {
+        "time": "17:00–18:30",
+        "title": "Via del Corso（孔多蒂街）購物",
+        "description": "漫步羅馬最著名購物街，兩側是 Zara、H&M、Gucci、Prada 等品牌（€30–500+）。聖誕期間有折扣與促銷。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Via+del+Corso+Rome+shopping"
+      },
+      {
+        "time": "18:30–21:00",
+        "title": "晚餐 & 回酒店或夜遊",
+        "description": "晚餐推薦：<strong>Baccano</strong>（€20–40）或中心區任意餐廳。飯後可漫步市中心享受聖誕夜景，或返回 The Hive Hotel 休息，為明天飛往巴黎做準備。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=dinner+Rome+city+center"
+      },
+      {
+        "time": "必買物品",
+        "title": "羅馬 Day 9 購物清單",
+        "description": "<strong>聖誕飾品：</strong>聖誕球、裝飾品（€5–20）。<strong>時尚品：</strong>圍巾、手套、皮手套（€20–80）。<strong>美食：</strong>義大利巧克力、馬卡龍、甜點（€5–20）。<strong>紀念品：</strong>羅馬明信片、小雕像（€1–10）。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=souvenir+shop+Rome+center"
       }
     ]
   },
   {
     "date": "2025-12-22",
     "day": 10,
-    "city": "巴黎",
-    "country": "法國",
-    "hotel": "Mercure Paris Centre Gare Montparnasse",
-    "theme": "待填寫：抵達巴黎 & 左岸",
-    "weather": "巴黎 12 月約 2–8°C，常有雲與短暫雨。",
+    "city": "羅馬 → 巴黎",
+    "country": "意大利 / 法國",
+    "hotel": "Hôtel Mercure Paris Centre Gare Montparnasse",
+    "theme": "飛往巴黎 & 蒙帕納斯 & 初訪體驗",
+    "weather": "巴黎 12 月約 2–8°C，通常陰天或有細雨，備傘與保暖衣物。",
     "events": [
       {
-        "time": "待填寫",
-        "title": "待填寫",
-        "description": "請補上從羅馬飛往巴黎、入住與簡單散步行程。",
-        "mapUrl": ""
+        "time": "12:40–14:50",
+        "title": "Vueling 航班 VY6253：Rome FCO → Paris ORY",
+        "description": "從羅馬菲烏米奇諾機場（FCO）第 1 航廈搭乘威靈航空班機前往巴黎奧利機場（ORY）第 1 航廈，約 2 小時 10 分。提前 2 小時抵達機場。行李托運（€50 可選）與登機手續需時。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Rome+Fiumicino+Airport+FCO"
+      },
+      {
+        "time": "14:50 抵達",
+        "title": "巴黎奧利機場（Paris Orly）& 轉移至蒙帕納斯酒店",
+        "description": "抵達後搭乘 OrlyBus（€8.5，15 分鐘）或 RER+地鐵至蒙帕納斯地區。約 30 分鐘可抵達<a href='https://www.google.com/maps/search/?api=1&query=Mercure+Paris+Centre+Gare+Montparnasse' target='_blank'>Hôtel Mercure Paris Centre Gare Montparnasse</a>。辦理入住、放行李。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Paris+Orly+Airport"
+      },
+      {
+        "time": "15:30–17:00",
+        "title": "蒙帕納斯地區散步 & 購買 Navigo 日票 / Paris Museum Pass",
+        "description": "在酒店周邊散步，熟悉蒙帕納斯大道（Boulevard Montparnasse）與咖啡館文化。購買交通卡或<strong>Paris Museum Pass</strong>（2 天€96，涵蓋 60 個景點包括羅浮宮、凡爾賽等）。<a href='https://www.parismuseumpass.fr/' target='_blank'>官網購買</a>。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Montparnasse+Paris+cafe"
+      },
+      {
+        "time": "17:30–19:00",
+        "title": "初訪巴黎：塞納河漫步 & 晚餐",
+        "description": "搭地鐵 Line 4 或 6 至塞納河畔，漫步艾菲爾鐵塔附近或聖瑪麗橋（Pont Marie）看巴黎聖母院。享受第一頓巴黎晚餐：經典法式料理、洋蔥湯（€12–18）、焗烤洋蔥（€8–12）或簡單沙拉（€10–15）。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Seine+river+Paris+restaurant"
+      },
+      {
+        "time": "19:00 之後",
+        "title": "返回蒙帕納斯酒店休息",
+        "description": "返回 Hôtel Mercure 休息，準備明日巴黎美術館與藝術之旅。設定日程，確認預約情況。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Mercure+Montparnasse+Paris"
+      },
+      {
+        "time": "必買物品",
+        "title": "巴黎抵達必買",
+        "description": "<strong>交通卡：</strong>Navigo 日票（€8.5）或 Paris Museum Pass（€96–144）。<strong>小食：</strong>可頌麵包（€1–2）、法式麵包（€0.50–1）。<strong>紀念品：</strong>艾菲爾鐵塔鑰匙圈（€2–5）。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Paris+souvenir+shop"
       }
     ]
   },
@@ -276,15 +588,63 @@
     "day": 11,
     "city": "巴黎",
     "country": "法國",
-    "hotel": "Mercure Paris Centre Gare Montparnasse",
-    "theme": "待填寫：西岱島 & 奧賽等博物館",
-    "weather": "巴黎氣溫約 2–8°C，日落約 17:00 左右。",
+    "hotel": "Hôtel Mercure Paris Centre Gare Montparnasse",
+    "theme": "奧賽博物館 & 聖徒禮拜堂 & 巴黎古監獄 & 海軍府 & 塞納河漫步",
+    "weather": "巴黎 12 月約 2–8°C，陰天，偶有細雨。日落約 17:00，聖誕燈飾 16:30 點亮。",
     "events": [
       {
-        "time": "待填寫",
-        "title": "待填寫",
-        "description": "請補上聖徒禮拜堂、巴黎古監獄、羅浮宮、奧賽等。",
-        "mapUrl": ""
+        "time": "09:00–11:30",
+        "title": "奧賽博物館（Musée d'Orsay）印象派傑作",
+        "description": "使用 Paris Museum Pass 進入奧賽博物館（不需排隊），欣賞莫內《睡蓮》、凡·高《星夜》等印象派大師作品。<a href='https://www.musee-orsay.fr/' target='_blank'>官網預約時間段</a>（免費，須用通行證號碼）。預計 2.5 小時。館內咖啡廳可俯瞰塞納河。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Musee+d'Orsay+Paris+Impressionist"
+      },
+      {
+        "time": "11:30–12:30",
+        "title": "午餐：奧賽館內或 Quai Voltaire 河畔",
+        "description": "在館內 <strong>Seasons 餐廳</strong>或附近 <strong>Quai Voltaire</strong> 小館享用午餐：洋蔥湯（€12–18）、三明治（€8–12）、沙拉（€10–15）。河畔座位有暖爐，可邊吃邊看塞納河。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=restaurant+Quai+Voltaire+Paris"
+      },
+      {
+        "time": "12:30–14:00",
+        "title": "聖徒禮拜堂（Sainte-Chapelle）參觀 13 世紀彩色玻璃窗",
+        "description": "搭地鐵至 Cité 站，進入聖徒禮拜堂（使用 Paris Museum Pass），欣賞 13 世紀彩色玻璃窗描述聖經故事。光線透過彩窗投射，魔幻絕倫。<a href='https://sainte-chapelle.fr/' target='_blank'>官網預約</a>（免費，需通行證號碼）。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Sainte-Chapelle+Paris+stained+glass"
+      },
+      {
+        "time": "14:00–15:30",
+        "title": "巴黎古監獄（Conciergerie）探索瑪麗·安托瓦內特監禁地",
+        "description": "同樣使用 Paris Museum Pass，進入法國大革命時期的監獄。參觀瑪麗·安托瓦內特的監室、審判廳與典獄長辦公室。<a href='https://www.paris-sainte-chapelle.com/' target='_blank'>官網</a>。預計 1.5 小時。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Conciergerie+Paris+Marie+Antoinette"
+      },
+      {
+        "time": "15:30–16:30",
+        "title": "塞納河散步 & 聖誕燈飾點亮",
+        "description": "從 Cité 島沿塞納河漫步至 Invalides（戰神廣場方向），途經 <strong>Pont Alexandre III</strong> 橋（最優雅橋樑，聖誕燈飾 16:30 點亮）。拍照、欣賞傍晚景色。約 30–40 分鐘步行。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Pont+Alexandre+III+Paris+Christmas+lights"
+      },
+      {
+        "time": "16:30–17:30",
+        "title": "海軍府（Hôtel des Invalides）& 拿破崙墓",
+        "description": "使用 Paris Museum Pass 進入海軍府，參觀拿破崙紀念館與軍事博物館。金色圓頂壯觀。<a href='https://www.musee-armee.fr/' target='_blank'>官網</a>。預計 1.5 小時（重點看金色圓頂，軍事迷可多留 30 分鐘）。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Hotel+des+Invalides+Paris+Napoleon"
+      },
+      {
+        "time": "17:30–19:00",
+        "title": "戰神廣場（Champ de Mars）& 艾菲爾鐵塔聖誕燈光秀",
+        "description": "漫步戰神廣場（艾菲爾鐵塔下的大草坪），欣賞聖誕燈光秀（每小時閃爍 5 分鐘）。傍晚 17:00 點燈，夜景瑰麗。非 Museum Pass 景點，免費進入。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Champ+de+Mars+Paris+Eiffel+Tower+lights"
+      },
+      {
+        "time": "19:00–21:00",
+        "title": "晚餐：香榭麗舍附近",
+        "description": "搭地鐵前往香榭麗舍大道，在 <strong>Galeries Lafayette 美食街</strong>（€15–25）或 <strong>Le Fouquet's</strong> 法式燉菜餐廳（€35–50）用晚餐。推薦嚐試法式砂鍋（Cassoulet）、牛排（€30–40）與紅酒（€20–50）。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Galeries+Lafayette+food+Paris"
+      },
+      {
+        "time": "必買物品",
+        "title": "巴黎 Day 11 必買",
+        "description": "<strong>藝術品：</strong>印象派油畫複製品、梵高向日葵海報（€10–30）。<strong>美妝：</strong>法國香水、護膚品品牌如 L'Occitane、Clarins（€30–80）。<strong>美食：</strong>馬卡龍禮盒（€15–30）、紅酒（€15–50）。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Paris+souvenir+gift+shop"
       }
     ]
   },
@@ -293,15 +653,51 @@
     "day": 12,
     "city": "巴黎",
     "country": "法國",
-    "hotel": "Mercure Paris Centre Gare Montparnasse",
-    "theme": "待填寫：羅浮宮 & 凡爾賽",
-    "weather": "巴黎 / 凡爾賽約 2–7°C，花園較冷。",
+    "hotel": "Hôtel Mercure Paris Centre Gare Montparnasse",
+    "theme": "羅浮宮深度遊 & 凡爾賽宮 & 大特利亞儂宮 & 聖誕前夕塞納河",
+    "weather": "巴黎 12 月約 2–7°C，花園與凡爾賽較冷。羅浮宮開放至 21:00（最後入場 20:30）。",
     "events": [
       {
-        "time": "待填寫",
-        "title": "待填寫",
-        "description": "請補上羅浮宮深度遊與凡爾賽宮時程。",
-        "mapUrl": ""
+        "time": "08:30–12:30",
+        "title": "羅浮宮（The Louvre）深度遊 & 蒙娜麗莎、勝利女神、拿破崙畫廊",
+        "description": "早起使用 Paris Museum Pass 進入全球最大美術館。<a href='https://www.louvre.fr/' target='_blank'>官網預約</a> 08:30–09:00 時段免排隊。欣賞達文西《蒙娜麗莎》（Mona Lisa，Denon 翼）、《勝利女神》（Winged Victory，薩摩色雷斯勝利女神，Denon 翼）、拿破崙畫廊等傑作。預計 4 小時，專注 Denon 翼重點。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=The+Louvre+Museum+Paris+Mona+Lisa"
+      },
+      {
+        "time": "12:30–13:30",
+        "title": "午餐：杜樂麗花園附近",
+        "description": "在羅浮宮出口附近或 <strong>Café Marly</strong>（€15–25，可眺望羅浮宮金字塔）或杜樂麗花園邊的小館享用午餐：可頌三明治、沙拉、法式湯（€10–18）。花園有聖誕燈飾，適合野餐。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Cafe+Marly+Paris+Louvre"
+      },
+      {
+        "time": "13:30–16:30",
+        "title": "凡爾賽宮（Château de Versailles）& 大特利亞儂宮（Grand Trianon）",
+        "description": "搭 RER C 從 Invalides 或市中心至 <a href='https://www.chateauversailles.fr/' target='_blank'>Versailles-Château-Rive Gauche</a>（€4.85 單程，30 分鐘車程）。使用 Paris Museum Pass 進入。欣賞路易十四鏡廳（Hall of Mirrors）、富麗堂皇宮殿與冬季花園（免費進入）。大特利亞儂宮（Marie Antoinette 別墅）同票參觀。預計 3 小時。<a href='https://www.chateauversailles.fr/' target='_blank'>官網預約</a>時間段。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Chateau+de+Versailles+Paris"
+      },
+      {
+        "time": "16:30–18:00",
+        "title": "塞納河散步 & 返回巴黎市區",
+        "description": "返回市區後，沿塞納河從 Pont Neuf 漫步至聖瑪麗橋，欣賞聖誕燈光與巴黎聖母院外觀（內部可能限開）。約 1.5 小時漫步。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Pont+Neuf+Paris+Seine+walk"
+      },
+      {
+        "time": "18:00–20:00",
+        "title": "聖誕前夕晚餐（Réveillon de Noël）",
+        "description": "享受特別聖誕菜單。推薦餐廳：<strong>L'As du Fallafel</strong>（Le Marais 區，猶太料理，€20–35）或傳統法式聖誕菜單（€40–70）。或選 <strong>Bateaux Parisiens 塞納河遊船晚餐</strong>（€80–150 含三道菜、飲料與聖誕裝飾，<a href='https://www.bateauxparisiens.com/' target='_blank'>官網預約</a>）欣賞艾菲爾鐵塔夜景。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Bateaux+Parisiens+Christmas+dinner+cruise+Paris"
+      },
+      {
+        "time": "20:00 之後",
+        "title": "聖誕前夜活動（可選）",
+        "description": "如選遊船，返回後可在香榭麗舍散步欣賞聖誕燈海（18:00 點燈）。或返回酒店休息，為聖誕節做準備。推薦參加 <strong>Sainte-Chapelle 聖誕音樂會</strong>（€30–50，19:30 或 21:00 場，需預約，<a href='https://sainte-chapelle.fr/' target='_blank'>官網</a>）聆聽聖誕頌歌。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Sainte-Chapelle+Christmas+concert+Paris"
+      },
+      {
+        "time": "必買物品",
+        "title": "巴黎 Day 12 聖誕購物",
+        "description": "<strong>香榭麗舍時尚品：</strong>Zara、Louis Vuitton、Prada（€50–500+）聖誕折扣。<strong>高級美妝：</strong>Chanel、Dior、YSL（€50–150）。<strong>聖誕禮物：</strong>限定聖誕包裝禮盒（€30–100）。<strong>法國美食：</strong>馬卡龍、巧克力、紅酒（€15–50）。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Champs-Elysees+shopping+Paris"
       }
     ]
   },
@@ -310,15 +706,51 @@
     "day": 13,
     "city": "巴黎",
     "country": "法國",
-    "hotel": "Mercure Paris Centre Gare Montparnasse",
-    "theme": "待填寫：戰神廣場 & 香榭麗舍",
-    "weather": "巴黎約 2–6°C，夜晚觀賞燈飾較冷。",
+    "hotel": "Hôtel Mercure Paris Centre Gare Montparnasse",
+    "theme": "聖誕節 & 香榭麗舍 & 凱旋門 & 艾菲爾鐵塔聖誕燈光",
+    "weather": "巴黎 12 月約 2–6°C，夜晚特別冷，穿羽絨外套。",
     "events": [
       {
-        "time": "待填寫",
-        "title": "待填寫",
-        "description": "請補上 Invalides、塞納河散步、戰神廣場與香榭麗舍行程。",
-        "mapUrl": ""
+        "time": "上午",
+        "title": "聖誕節早餐 & 自由活動",
+        "description": "在酒店享用聖誕早餐，或漫步蒙帕納斯地區享受悠閒上午。許多餐廳與景點於聖誕開放。推薦逛 Tuileries 聖誕市場（11:00–21:00，免費進入）購買禮物、熱巧克力（€3–5）。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Tuileries+Christmas+market+Paris"
+      },
+      {
+        "time": "12:00–13:30",
+        "title": "聖誕節午餐",
+        "description": "享受特別聖誕菜單，推薦：<strong>傳統法式聖誕料理</strong>（牡蠣、法式砂鍋、烤鴨，€30–60）或<strong>家庭式輕食</strong>（起司、醃菜、麵包，€15–25）。多數餐廳開放，但需提前預約。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Christmas+dinner+Paris+restaurant"
+      },
+      {
+        "time": "14:00–16:00",
+        "title": "香榭麗舍大道（Champs-Élysées）聖誕購物 & 門店參觀",
+        "description": "漫步全球最著名的購物大街，逛 Galeries Lafayette、Printemps、Zara、Louis Vuitton、Gucci 等門店。聖誕期間有特別折扣與裝飾。店鋪通常 10:00–20:00 營業（聖誕可能異動，先確認）。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Champs-Elysees+shopping+Christmas+Paris"
+      },
+      {
+        "time": "16:30–19:00",
+        "title": "凱旋門（Arc de Triomphe）& 香榭麗舍夜景",
+        "description": "傍晚搭地鐵至凱旋門（Line 6 from Bir-Hakeim 至 Charles de Gaulle-Étoile）。使用 Paris Museum Pass 無排隊進入，搭電梯至頂部俯瞰巴黎 12 條大街放射景象。聖誕燈飾 18:00 點亮。<a href='https://www.paris-arc-de-triomphe.fr/' target='_blank'>官網</a>。預計 1 小時。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Arc+de+Triomphe+Paris+night+view"
+      },
+      {
+        "time": "17:30–19:00",
+        "title": "戰神廣場（Champ de Mars）& 艾菲爾鐵塔聖誕燈光秀",
+        "description": "搭地鐵至戰神廣場，欣賞艾菲爾鐵塔聖誕燈光秀（每小時閃爍 5 分鐘）。傍晚 17:00 點燈，夜景瑰麗。聖誕氛圍濃厚，人潮眾多。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Champ+de+Mars+Eiffel+Tower+Christmas+lights"
+      },
+      {
+        "time": "19:00–21:00",
+        "title": "聖誕晚餐 & 返回酒店",
+        "description": "晚餐推薦：<strong>聖誕特餐</strong>（€40–70）、<strong>Galeries Lafayette 美食街</strong>（€20–35）或輕食咖啡館（€10–20）。返回 Hôtel Mercure 休息，為明天倫敦之旅準備。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=restaurant+Paris+Christmas+dinner"
+      },
+      {
+        "time": "必買物品",
+        "title": "巴黎聖誕節購物清單",
+        "description": "<strong>時尚品：</strong>聖誕特定圍巾、手套（€20–60）。<strong>香水：</strong>Chanel No.5、Dior Miss Dior（€60–100）。<strong>巧克力與甜點：</strong>馬卡龍、聖誕節蛋糕（€15–40）。<strong>聖誕裝飾：</strong>聖誕樹飾品、燭台（€5–30）。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=luxury+gift+shop+Paris+Christmas"
       }
     ]
   },
@@ -328,14 +760,50 @@
     "city": "巴黎 → 倫敦",
     "country": "法國 / 英國",
     "hotel": "Point A",
-    "theme": "待填寫：巴黎最後上午 & Eurostar",
-    "weather": "巴黎早上約 2–8°C；倫敦晚上約 3–9°C，常有毛毛雨。",
+    "theme": "巴黎最後上午 & Eurostar 列車 & 倫敦初訪",
+    "weather": "巴黎早上約 2–8°C，倫敦晚上約 3–9°C，通常陰天或毛毛雨。",
     "events": [
       {
-        "time": "待填寫",
-        "title": "待填寫",
-        "description": "請補上巴黎最後活動、Gare du Nord 搭乘 Eurostar 及抵達倫敦。",
-        "mapUrl": ""
+        "time": "上午",
+        "title": "巴黎最後散步 & 早午餐",
+        "description": "在蒙帕納斯或市中心享受最後早午餐，悠閒漫步，購買最後紀念品（馬卡龍、紅酒、香水等）。抓住巴黎的最後時光。約 11:00 前完成購物與用餐。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=cafe+breakfast+Paris+last+morning"
+      },
+      {
+        "time": "12:00",
+        "title": "前往 Gare du Nord（北站）搭乘 Eurostar",
+        "description": "搭地鐵或的士至 <a href='https://www.google.com/maps/search/?api=1&query=Paris+Gare+du+Nord' target='_blank'>Paris Gare du Nord</a>（北站）。提前 1 小時抵達完成登車手續（Eurostar 需護照檢查與安檢，類似機場流程）。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Paris+Gare+du+Nord"
+      },
+      {
+        "time": "15:12–16:30",
+        "title": "Eurostar 列車：Paris Gare du Nord → London St Pancras International",
+        "description": "搭乘歐洲之星（Eurostar）高速列車前往倫敦，約 2 小時 15 分。途經英吉利海峽海底隧道（約 50 分鐘，沉浸式體驗）。列車舒適，有 WiFi 與餐飲服務。<a href='https://www.eurostar.com/' target='_blank'>官網</a>查詢班次。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Eurostar+Paris+London"
+      },
+      {
+        "time": "16:30 抵達",
+        "title": "倫敦聖潘克拉斯國際車站（St Pancras）& 入住 Point A 酒店",
+        "description": "抵達聖潘克拉斯車站（King's Cross 對面，維多利亞時期建築），搭地鐵或的士至 <a href='https://www.google.com/maps/search/?api=1&query=Point+A+London+hotel' target='_blank'>Point A Hotel</a>。辦理入住、放行李。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=London+St+Pancras+International"
+      },
+      {
+        "time": "17:30–19:00",
+        "title": "倫敦初訪：King's Cross & Camden 或南岸散步",
+        "description": "在酒店周邊或南岸（Southbank）散步，欣賞倫敦聖誕裝飾、泰晤士河夜景。推薦 <strong>Southbank Centre Winter Market</strong>（12 月開放，免費進入，€5–15 美食攤位）購買聖誕禮物與熱飲。或逛 Covent Garden（購物與街頭表演）。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Southbank+Winter+Market+London"
+      },
+      {
+        "time": "19:00–21:00",
+        "title": "晚餐 & 返回酒店休息",
+        "description": "享受倫敦晚餐：<strong>Fish & Chips</strong>（€12–18）、<strong>British Sunday Roast</strong>（€20–30，若餐廳營業）或泰晤士河邊餐廳（€20–40）。推薦 Borough Market 附近小館。返回 Point A 休息，準備明天倫敦最後一天。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Fish+Chips+restaurant+London+South+Bank"
+      },
+      {
+        "time": "必買物品",
+        "title": "倫敦抵達必買",
+        "description": "<strong>倫敦紀念品：</strong>雙層巴士模型（€5–15）、英國國旗貼紙（€1–3）。<strong>英式食品：</strong>PG Tips 茶（€5–10）、Digestive 餅乾（€3–5）。<strong>哈利波特周邊：</strong>魔杖、道具複製品（€20–80，倫敦各景點販售）。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=souvenir+shop+London+South+Bank"
       }
     ]
   },
@@ -345,14 +813,56 @@
     "city": "倫敦",
     "country": "英國",
     "hotel": "Point A",
-    "theme": "待填寫：倫敦重點 & 聖誕市集",
-    "weather": "倫敦 12 月約 3–9°C，多雲，有時有小雨，風大時體感更冷。",
+    "theme": "南岸冬季市集 & Covent Garden & London Bridge & 倫敦聖誕市集",
+    "weather": "倫敦 12 月約 3–9°C，多雲，有時小雨。風大時體感更冷。",
     "events": [
       {
-        "time": "待填寫",
-        "title": "待填寫",
-        "description": "請補上 Southbank 市集、London Bridge、Covent Garden 等行程。",
-        "mapUrl": ""
+        "time": "09:00–11:00",
+        "title": "Southbank Centre Winter Market（南岸冬季市集）",
+        "description": "開放 11:00–21:00，提早前往享受相對安靜環境。瀏覽手工藝品、禮物攤位、聖誕裝飾（€5–50）。購買熱巧克力（€4–6）、烤栗子（€5–8）與聖誕風味食品。<a href='https://www.southbankcentre.co.uk/' target='_blank'>官網</a>。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Southbank+Centre+Winter+Market+London"
+      },
+      {
+        "time": "11:00–12:30",
+        "title": "London Bridge 區散步 & Borough Market",
+        "description": "漫步倫敦橋（London Bridge）與周邊泰晤士河畔。參觀 <strong>Borough Market</strong>（食材市場與熟食攤位，€8–20 美食）。欣賞倫敦橋、塔橋夜景與倫敦城市天際線。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Borough+Market+London+Bridge"
+      },
+      {
+        "time": "12:30–14:00",
+        "title": "午餐：Borough Market 或河邊餐廳",
+        "description": "在 Borough Market 品嚐英式美食：<strong>Fish & Chips</strong>（€12–18）、英式漢堡（€10–15）、起司漢堡（€12–16）或河邊餐廳（€20–40）享用 Sunday Roast。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=restaurant+Borough+Market+London"
+      },
+      {
+        "time": "14:00–16:00",
+        "title": "Covent Garden（柯芬園）逛街 & 街頭表演",
+        "description": "前往倫敦最熱鬧購物區，欣賞維多利亞市場大廳建築、精品店（Zara、H&M、Monki）與街頭音樂表演者。購買英式禮物（€10–50）、紀念品（€3–20）。咖啡館隨處可見（€3–6）。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Covent+Garden+London+shopping"
+      },
+      {
+        "time": "16:00–17:30",
+        "title": "倫敦購物與咖啡廳小坐",
+        "description": "在 Covent Garden 或周邊繼續購物與瀏覽。推薦英式品牌如 Burberry、Liberty、Fortnum & Mason 等。購買最後禮物與紀念品（英式茶、Fortnum & Mason 糖果盒、哈利波特周邊等）。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Fortnum+Mason+London"
+      },
+      {
+        "time": "17:30–19:30",
+        "title": "晚餐：傳統英式或國際料理",
+        "description": "享受倫敦最後晚餐：<strong>傳統英式料理</strong>（Bangers & Mash €15–20、Fish & Chips €12–18）、<strong>Afternoon Tea with Scones</strong>（€25–40，如時間允許）或輕食餐廳（€15–25）。推薦區域：Leicester Square、Piccadilly、Soho。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=traditional+British+dinner+restaurant+London"
+      },
+      {
+        "time": "19:30–21:00",
+        "title": "夜遊倫敦中心 & 返回酒店打包準備",
+        "description": "晚餐後漫步倫敦中心享受聖誕夜景（Leicester Square、Piccadilly Circus 聖誕燈飾），或返回 Point A 輕鬆休息。整理行李，為明天返回香港飛行準備。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Leicester+Square+Piccadilly+Circus+London+Christmas+lights"
+      },
+      {
+        "time": "必買物品",
+        "title": "倫敦必買清單（最後一天）",
+        "description": "<strong>英式紀念品：</strong>倫敦巴士、衛兵模型（€5–20）。<strong>英式美食：</strong>PG Tips 茶葉（€5–10）、Fortnum & Mason 茶點禮盒（€20–50）、Digestive 餅乾（€3–5）。<strong>哈利波特：</strong>魔杖、掛件、書籍複製品（€15–80）。<strong>英式時尚：</strong>Burberry 圍巾、皮製品（€50–200）。<strong>英式護膚：</strong>Lush、Jo Malone（€25–80）。",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=souvenir+gift+shop+London+Covent+Garden"
       }
     ]
   }
